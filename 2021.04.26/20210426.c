@@ -3,7 +3,7 @@
 int mian()
 {
 	int t, a, b, c, d;
-	printf("请输入四个数：");
+	printf("璇疯緭鍏ュ洓涓暣鏁帮細");
 		scanf("%d,%d,%d,%d", &a, &b, &c, &d);
 	return 0;
 }
